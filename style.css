@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: rgb(141, 73, 250);
+}
+h1 {
+    background-color: rgb(166, 111, 255);
+    border: 36px solid transparent;
+    padding: 20px;
+    border-image: url('borda.png') 600 stretch;
+    text-align: center;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: rgb(80, 0, 184);
+    text-shadow: 1.2px 1.2px 0px #0f002c;
+    box-shadow: 0px 0px 20px -5px #21005f;
+    max-width: 1020px;
+    margin: auto;
+    font-weight: bold;
+}
+main {
+    background-color: rgb(242, 226, 255);
+    max-width: 600px;
+    margin: auto;
+    border-radius: 20px 0px;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow: 6px 5px 13px -7px #19004b;
+    
+}
+main h2 {
+    background-color: rgb(166, 111, 255);
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: rgb(80, 0, 184);
+    font-weight: bold;
+    text-shadow: 1.2px 1.2px 0px #0f002c;
+    border-radius: 20px 0px 0px 0px;
+    padding: 10px;
+    margin: -11px -10px -10px -10px;
+    text-align: center;
+}
+p {
+    text-indent: 30px;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    padding: 5px;
+}
+
+img {
+    width: 100%;
+    border-radius: 20px 0px;
+    outline: 3px solid rgb(111, 0, 255);
+}
